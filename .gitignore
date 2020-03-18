@@ -1,0 +1,15 @@
+bzt-*.tar.gz
+venv
+**/test_data/
+**/runs/
+*.bak
+*.orig
+.DS_Store
+.idea
+.ropeproject
+**/target/
+*.iml
+*.jar
+.bashrc
+**/.project
+.settings/
